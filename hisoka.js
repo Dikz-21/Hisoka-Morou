@@ -1,7 +1,7 @@
 /**
-   * Create By Dika Ardnt.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
+   * Create By Dika.
+   * Contact Me on wa.me/6285839814393
+   * Follow https://github.com/Zuk.
 */
 
 require('./config')
